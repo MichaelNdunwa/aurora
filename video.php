@@ -1,9 +1,8 @@
 <?php
 include("includes/includedFiles.php");
 
-$apiKey = 'AIzaSyCSy9ejXjtvk2Bc-o3A882_6R6JJnhLWj8';
+$apiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 $channelId = 'UCdE3k0QhQmDmAHZX70amtSA';
-// $channelId = 'UCEDEKrjFZFp3Br3ENlYomdA';
 
 // Updated API URL with videoCategoryId=10 (Music category) and additional parameters
 $api_url = "https://www.googleapis.com/youtube/v3/search?key=$apiKey" .
